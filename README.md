@@ -5,6 +5,15 @@ Welcome to the official repository for our submission to the **DataCrux Analytic
 
 ---
 
+## 🏆 Achievements
+
+🥇 **Positioned 1st among the Top 10 Final Participants**  
+**Event**: DataCrux – The Analytics Case Clash 2025  
+**Host**: Analytical Arena, The Data Science Club – IIT Patna  
+🏅 *Awarded Certificate of Excellence for Insightful Analytics and Business Strategy*
+
+---
+
 ## 📌 Problem Statement
 
 Adidas aims to analyze its U.S. sales performance across:
