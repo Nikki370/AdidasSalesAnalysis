@@ -66,9 +66,9 @@ The goal is to uncover key insights to:
 
 ## 👩‍💼 Team Name = Alpha
 
-Nikita Kumari
-Soniya Verma
-Avika Adarsh
+1. Nikita Kumari
+2. Soniya Verma
+3. Avika Adarsh
 
 ---
 
