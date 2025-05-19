@@ -74,4 +74,13 @@ The goal is to uncover key insights to:
 
 ## ⚙️ How to Run the Project
 
-> Make sure you have Python installed (recommended version: 3.8 or later)
+Make sure you have Python installed (recommended version: 3.8 or later)
+
+---
+
+## 🔐 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with proper credit.
+
+See the [LICENSE](./LICENSE) file for full details.
